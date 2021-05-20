@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmccormackpk&label=Profile%20views&color=0e75b6&style=flat" alt="cmccormackpk" /> </p>
 
-- 🔭 I’m currently working on **Cerner FHIR Integration**
+- 🔭 I’m currently working on **Charge-Note Report enhancements** and supporting the **Cerner FHIR Integration**
 
 - 💬 Ask me about **FHIR, Charge-Note Reconciliation, Charge Routing, GenericXML, PKLink, Charge Capture, HL7**
 
