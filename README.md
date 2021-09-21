@@ -32,9 +32,11 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
+<!-->
 ---
 
 <h3 align="left">Follow My Personal Adventures:</h3>
 <a href="https://www.instagram.com/thetallman67/" target="_blank">
     <img src="https://img.shields.io/badge/TheTallMan67%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
+-->
