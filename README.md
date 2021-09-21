@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **FHIR, Charge-Note Reconciliation, Charge Routing, GenericXML, PKLink, Charge Capture, HL7**
 
-- 📬 Send me an <a href="mailto:cmccormack@patientkeeper.com">Email</a> 
+- 📬 Send me an <a href="mailto:cmccormack@commure.com">Email</a> 
 
-- 📹 Start a Webex Teams meeting <a href="https://patientkeeper.webex.com/join/cmccormack" target="_blank">with me</a>
+- 📹 Chat with me on Slack in your <a href="https://app.slack.com/client/T3RL1BXSN/D02C69X8AQ7" target="_blank">Browser</a> or in the <a href="slack://user?team=T3RL1BXSN&id=U02CM7TC14K">App</a>
 
 - ❓ Got a question? <a href="https://github.com/cmccormackpk/ama" target="_blank">Ask Me Anything!</a>
 
@@ -31,12 +31,3 @@
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
-
-<!-->
----
-
-<h3 align="left">Follow My Personal Adventures:</h3>
-<a href="https://www.instagram.com/thetallman67/" target="_blank">
-    <img src="https://img.shields.io/badge/TheTallMan67%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
--->
