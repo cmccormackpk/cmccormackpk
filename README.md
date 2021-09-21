@@ -8,7 +8,7 @@
 
 - 📬 Send me an <a href="mailto:cmccormack@commure.com">Email</a> 
 
-- 📹 Chat with me on Slack in your <a href="https://app.slack.com/client/T3RL1BXSN/D02C69X8AQ7" target="_blank">Browser</a> or in the <a href="slack://user?team=T3RL1BXSN&id=U02CM7TC14K">App</a>
+- 📹 Chat with me on <a href="https://slack.com/app_redirect?channel=U02CM7TC14K" target="_blank">Slack</a>
 
 - ❓ Got a question? <a href="https://github.com/cmccormackpk/ama" target="_blank">Ask Me Anything!</a>
 
