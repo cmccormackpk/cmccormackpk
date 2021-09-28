@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Client Issues**, **Charge-Note Report enhancements** and **Cerner FHIR Performance**
 
-- 💬 Ask me about **FHIR, Charge-Note Reconciliation, Charge Routing, GenericXML, PKLink, Charge Capture, HL7**
+- 💬 Ask me about **SMART on FHIR, Charge-Note Reconciliation, Charge Routing, GenericXML, PKLink, Charge Capture, HL7, Relational Databases**
 
 - 📬 Send me an <a href="mailto:cmccormack@commure.com">Email</a> 
 
