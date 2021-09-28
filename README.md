@@ -10,7 +10,7 @@
 
 - 📹 Chat with me on <a href="https://slack.com/app_redirect?channel=U02CM7TC14K" target="_blank">Slack</a>
 
-- ❓ Got a question? <a href="https://github.com/cmccormackpk/discussions/new" target="_blank">Ask Me Anything!</a>
+- ❓ Got a question? <a href="https://github.com/cmccormackpk/cmccormackpk/discussions/new" target="_blank">Ask Me Anything!</a>
 
 - 🤝 I’m always looking to chat about **best practices for REST API design**
 
