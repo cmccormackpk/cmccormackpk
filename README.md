@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmccormackpk&label=Profile%20views&color=0e75b6&style=flat" alt="cmccormackpk" /> </p>
 
-- 🔭 I’m currently working on **Client Issues**, **Charge-Note Report enhancements** and **Cerner FHIR Performance**
+- 🔭 I’m currently working on **Data Services, Patient DTO**
 
 - 💬 Ask me about **SMART on FHIR, Charge-Note Reconciliation, Charge Routing, GenericXML, PKLink, Charge Capture, HL7, Relational Databases**
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m always looking to chat about **best practices for REST API design**
 
-- 🌱 In my spare time I’m learning **Knife Sharpening**
+- 🌱 In my spare time I’m learning about **Home Networking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
