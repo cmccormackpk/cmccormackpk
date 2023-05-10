@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmccormackpk&label=Profile%20views&color=0e75b6&style=flat" alt="cmccormackpk" /> </p>
 
-- 🔭 I’m currently working on **Data Services, Patient DTO**
+- 🔭 I’m currently working on **Charge Note Recon APp**
 
-- 💬 Ask me about **SMART on FHIR, Charge-Note Reconciliation, Charge Routing, GenericXML, PKLink, Charge Capture, HL7, Relational Databases**
+- 💬 Ask me about **Platinum Engineering**
 
 - 📬 Send me an <a href="mailto:cmccormack@commure.com">Email</a> 
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m always looking to chat about **best practices for REST API design**
 
-- 🌱 In my spare time I’m learning about **Home Networking**
+- 🌱 In my spare time I’m learning about **18V Powerwheels conversion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
